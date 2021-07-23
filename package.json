@@ -1,11 +1,7 @@
 {
   "name": "main",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "This is my Portfolio website to showcase my work from Front End to Cinematography",
-=======
-  "description": "",
->>>>>>> 90f67e54c5cf89cd6180fde2db36a8dc73a783e8
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,12 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.0.0",
-<<<<<<< HEAD
     "jquery": "^3.6.0",
     "lite-server": "^2.6.1",
     "popper.js": "^1.16.1"
-=======
-    "lite-server": "^2.6.1"
->>>>>>> 90f67e54c5cf89cd6180fde2db36a8dc73a783e8
   }
 }
